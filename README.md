@@ -194,6 +194,7 @@ Matthew Holt began developing Caddy in 2014 while studying computer science at B
 
 - _Project on Twitter: [@caddyserver](https://twitter.com/caddyserver)_
 - _Author on Twitter: [@mholt6](https://twitter.com/mholt6)_
+- co-author on Twitter : @saheedmuhds
 
 Caddy is a project of [ZeroSSL](https://zerossl.com), a Stack Holdings company.
 
